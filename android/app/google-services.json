@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535977460671",
+    "project_id": "doctor-patient-firebase-app",
+    "storage_bucket": "doctor-patient-firebase-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535977460671:android:9e704558809a5c8f5e570a",
+        "android_client_info": {
+          "package_name": "com.example.good_doctor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEEZ0CJ6Zuz95pFLITvOUUblaSMMuoaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
